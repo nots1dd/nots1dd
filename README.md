@@ -11,14 +11,21 @@
 
 Just an Arch Linux User doing random things and projects that interest me. <br>
 
+More interested in lower-level programming and concepts.
+
 Some interesting repos of mine:
+-------------------------------
 
--> **[My Dots](https://github.com/nots1dd/dotfiles)**: My dotfiles for Hyprland on Arch Linux zen kernel
+-> **[Hydraware](https://github.com/nots1dd/hydraware)**:   Aimed to be a Flutter project for a more hydro-knowledgable world (Google Solution Challenge '24)
 
--> **[Litemus](https://github.com/nots1dd/Litemus)**:  Song Directory cache algorithm + TUI Music player written in C++ using NCurses and SFML API
+-> **[Litemus](https://github.com/nots1dd/Litemus)**:       Song Directory cache algorithm + TUI Music player written in C++ using NCurses and SFML API
 
--> **[LiteFM](https://github.com/nots1dd/litefm)**:     Light and Fast File Manager in C with NCurses and libarchive
+-> **[LiteFM](https://github.com/nots1dd/litefm)**:         Light and Fast File Manager in C with NCurses and libarchive
 
+Others:
+-------
+
+**[dotfiles](https://github.com/nots1dd/dotfiles)**: My dotfiles for Hyprland on Arch Linux zen kernel (**GRUVBOX**)
 
 ## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Languages
 
@@ -28,7 +35,7 @@ Some interesting repos of mine:
 <td>
 <div align="left">
 
-I am fluent in the following <br>
+I know what I am doing in the following <br>
 languages: <br>
 **Python, C/C++, Dart, Java** and more...
 
