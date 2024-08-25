@@ -37,7 +37,7 @@ Others:
 
 I know what I am doing in the following <br>
 languages: <br>
-**Python, C/C++, Dart, Java** and more...
+**Python, C/C++, Dart, Java, Shell** and more...
 
 </div>
 </td>
