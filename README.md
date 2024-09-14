@@ -16,6 +16,8 @@ More interested in lower-level programming and concepts.
 Some interesting repos of mine:
 -------------------------------
 
+-> **[rAVen](https://github.com/nots1dd/raven)**:           Cool custom implementation of AV using raylib (uses FFT)            
+
 -> **[Hydraware](https://github.com/nots1dd/hydraware)**:   Aimed to be a Flutter project for a more hydro-knowledgable world (Google Solution Challenge '24)
 
 -> **[Litemus](https://github.com/nots1dd/Litemus)**:       Song Directory cache algorithm + TUI Music player written in C++ using NCurses and SFML API
