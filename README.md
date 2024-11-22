@@ -56,5 +56,5 @@ languages: <br>
 <div align="center">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nots1dd&theme=gruvbox" alt="stats" />
 
-[![nots1dd](https://github-readme-stats.vercel.app/api?username=nots1dd)](https://github.com/anuraghazra/github-readme-stats)
+![nots1dd's GitHub stats](https://github-readme-stats.vercel.app/api?username=nots1dd&show_icons=true&theme=gruvbox)
 </div>
