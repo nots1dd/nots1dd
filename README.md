@@ -48,5 +48,3 @@ Yes, I rice (not so often though).
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nots1dd&theme=gruvbox">
   <img src="https://github-readme-stats.vercel.app/api?username=nots1dd&show_icons=true&theme=gruvbox">
 </p>
-
----
