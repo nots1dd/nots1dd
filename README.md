@@ -13,28 +13,28 @@
 </p>  
 
 ## **About Me**
-I like working on **low-level programming, graphics programming, systems engineering and performance optimization**. I primarily work with **C/C++ and ASM (web and x86)** along  with **Rust, Bash, Zig** (and the occasional **Python and Dart**), trying to find some reason under the walls of sound. My interests include **systems programming, multimedia, networking, and UI/UX for CLI tools**. I actively experiment with **FFmpeg, LLVM, Wayland, OpenGL** and anything I like really. 
+I like working on **low-level programming, graphics programming, systems engineering and performance optimization**. I primarily work with **C/C++ and ASM (web and x86)** along  with **Rust, Bash, Zig** (and the occasional **Python and Dart**). My interests include **Operating systems, Compiler Design, Graphics, Multimedia, Computer Networking, and UI/UX for CLI/TUI apps**. I actively experiment with **FFmpeg, LLVM, Wayland, OpenGL, Linux** and anything I like really. 
 
-Mostly wasting my time trying to make tools/utilities that I would love to have.
+Mostly wasting my time trying to make tools/utilities that I would love to have and trying to find myself under the walls of sound.
 
 ## **Featured Projects**
-### **[inLimbo](https://github.com/nots1dd/inLimbo)**
+### **[inLimbo](https://github.com/nots1dd/inLimbo)** (**WIP**)
 A fully customizable and fast TUI music player and metadata fetcher for Linux, built in **C++** with **FTXUI and Miniaudio**.
 
-### **[Wavy](https://github.com/Oinkognito/wavy)**
+### **[Wavy](https://github.com/Oinkognito/wavy)** (**WIP**)
 A **local networking solution** for audio streaming and sharing, supporting **lossless** and **lossy** audio formats through a unified platform.
 
-### **[Anvilock](https://github.com/muvilon/anvilock)**
+### **[Anvilock](https://github.com/muvilon/anvilock)** (**WIP**)
 An upcoming GPU accelerated screen locker utility for **Wayland based compositors** that abides by the **ext-session-lock-v1** Wayland Protocol.
 
-### **[rAVen](https://github.com/nots1dd/raven)**
+### **[rAVen](https://github.com/nots1dd/raven)** (**DONE**)
 A real-time audio visualization project built with **Raylib**, featuring custom **FFT implementations**.
 
-### **[LiteFM](https://github.com/nots1dd/litefm)**
-A lightweight and fast file manager for Linux, built in **C** using **Ncurses and libarchive**.
+### **[LiteFM](https://github.com/nots1dd/litefm)** (**ARCHIVED**)
+A lightweight and fast file manager for Linux, built in **C** using **NCurses and libarchive**.
 
-### **[Hydraware](https://github.com/nots1dd/hydraware)**
-A Flutter project aimed at water conservation, developed for **Google Solution Challenge 2024**.
+### **[obZcene](https://github.com/nots1dd/obZcene)** (**WIP**)
+Very obscene and primitive attempt at making a game engine in C using **SDL** and math.
 
 ## **MY DOTFILES**
 
