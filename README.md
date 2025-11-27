@@ -15,7 +15,7 @@
 ## **About Me**
 I like working on **low-level programming, graphics programming, systems engineering and performance optimization**. I primarily work with **C/C++ and ASM (web and x86)** along  with **Rust, Bash, Zig** (and the occasional **Python and Dart**). My interests include **Operating systems, Compiler Design, Graphics, Multimedia, Computer Networking, and UI/UX for CLI/TUI apps**. I actively experiment with **FFmpeg, LLVM, Wayland, OpenGL, Linux** and anything I like really. 
 
-Mostly wasting my time trying to make tools/utilities that I would love to have and trying to find myself under the walls of sound.
+Mostly wasting my time trying to make tools/utilities that I would love to have. Also trying to find myself under the walls of sound.
 
 ## **Featured Projects**
 ### **[inLimbo](https://github.com/nots1dd/inLimbo)** (**WIP**)
@@ -30,11 +30,11 @@ An upcoming GPU accelerated screen locker utility for **Wayland based compositor
 ### **[rAVen](https://github.com/nots1dd/raven)** (**DONE**)
 A real-time audio visualization project built with **Raylib**, featuring custom **FFT implementations**.
 
-### **[LiteFM](https://github.com/nots1dd/litefm)** (**ARCHIVED**)
-A lightweight and fast file manager for Linux, built in **C** using **NCurses and libarchive**.
-
 ### **[obZcene](https://github.com/nots1dd/obZcene)** (**WIP**)
 Very obscene and primitive attempt at making a game engine in C using **SDL** and math.
+
+### **[LiteFM](https://github.com/nots1dd/litefm)** (**ARCHIVED**)
+A lightweight and fast file manager for Linux, built in **C** using **NCurses and libarchive**.
 
 ## **MY DOTFILES**
 
