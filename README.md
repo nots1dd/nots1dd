@@ -13,7 +13,7 @@
 </p>  
 
 ## **About Me**
-I am trying to be some person from Nebraska who likes to tinker in **low-level programming, system design, and performance optimization**. I primarily work with **C, C++, Python, Rust and Bash**, trying to build efficient and modular projects. My interests include **systems programming, multimedia, networking, and UI/UX for CLI tools**. I actively experiment with **FFmpeg, LLVM, Wayland** and anything I like really. 
+I like working on **low-level programming, graphics programming, systems engineering and performance optimization**. I primarily work with **C/C++ and ASM (web and x86)** along  with**Rust, Bash, Zig** (and the occasional **Python and Dart**), trying to find some reason under the walls of sound. My interests include **systems programming, multimedia, networking, and UI/UX for CLI tools**. I actively experiment with **FFmpeg, LLVM, Wayland, OpenGL** and anything I like really. 
 
 Mostly wasting my time trying to make tools/utilities that I would love to have.
 
